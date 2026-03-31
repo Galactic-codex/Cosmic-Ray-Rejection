@@ -1,5 +1,3 @@
-# Cosmic-Ray-Rejection
-
 # Cosmic Ray Rejection in Astronomical Imaging
 
 ## Overview
